@@ -1,5 +1,6 @@
-# awesome-fulcro
-A curated list of awesome resources for Fulcro
+# Awesome Fulcro
+
+A curated list of awesome resources for [Fulcro](https://github.com/fulcrologic/fulcro) and [Fulcro RAD](https://github.com/fulcrologic/fulcro-rad), the most awesome webapp framework the Earth has ever seen.
 
 ## Learning
 
