@@ -35,3 +35,4 @@ A curated list of awesome resources for [Fulcro](https://github.com/fulcrologic/
 * [eql-style-guide](https://github.com/souenzzo/eql-style-guide)
 * [Fulcro Troubleshooting Decision Tree](https://blog.jakubholy.net/2020/troubleshooting-fulcro/) - A decision tree to help you go from a problem to the most appropriate troubleshooting steps
 * [Error handling in Fulcro: 3 approaches](https://blog.jakubholy.net/2020/error-handling-in-fulcro/)
+* [Fulcro notes](https://roamresearch.com/#/app/bristol-clojure/page/KT5i16d-v)
