@@ -30,6 +30,7 @@ A curated list of awesome resources for [Fulcro](https://github.com/fulcrologic/
     1. [API auth](https://chrisodonnell.dev/posts/giftlist/api_auth/)
     1. [form and listing](https://chrisodonnell.dev/posts/giftlist/gift_list_form/)
     1. [navigation](https://chrisodonnell.dev/posts/giftlist/gift_list_navigation/)
+    1. [deployment](https://chrisodonnell.dev/posts/giftlist/deployment/)
 
 ### Other
 
