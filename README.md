@@ -19,6 +19,7 @@ A curated list of awesome resources for [Fulcro](https://github.com/fulcrologic/
 
 ### Tutorials
 
+* https://awkay.github.io/om-tutorial/#!/om_tutorial.D_Queries - this older OMNext / Eql tutorial is reportedly useful for understanding query syntax
 * Chris O'Donnell's Gift list dev diary series (2020) - building a non-trivial Fulcro app from scratch, step by step
     1. [introduction](https://chrisodonnell.dev/posts/giftlist/intro/)
     1. [authentication](https://chrisodonnell.dev/posts/giftlist/authentication/)
@@ -29,6 +30,7 @@ A curated list of awesome resources for [Fulcro](https://github.com/fulcrologic/
     1. [API auth](https://chrisodonnell.dev/posts/giftlist/api_auth/)
     1. [form and listing](https://chrisodonnell.dev/posts/giftlist/gift_list_form/)
     1. [navigation](https://chrisodonnell.dev/posts/giftlist/gift_list_navigation/)
+    1. [deployment](https://chrisodonnell.dev/posts/giftlist/deployment/)
 
 ### Other
 
@@ -36,3 +38,8 @@ A curated list of awesome resources for [Fulcro](https://github.com/fulcrologic/
 * [Fulcro Troubleshooting Decision Tree](https://blog.jakubholy.net/2020/troubleshooting-fulcro/) - A decision tree to help you go from a problem to the most appropriate troubleshooting steps
 * [Error handling in Fulcro: 3 approaches](https://blog.jakubholy.net/2020/error-handling-in-fulcro/)
 * [Fulcro notes on Tony Kay video series](https://roamresearch.com/#/app/bristol-clojure/page/KT5i16d-v)
+
+### Templates and Examples
+
+* https://github.com/dvingo/dv.fulcro-template - based on the fulcro3 template but differs in backend tech and will continue to diverge as features are added to this template.
+* https://github.com/dvingo/pathom-client-wikipedia[Dvingo's pathom-client-wikipedia] -  example client-only fulcro app hitting a rest api
