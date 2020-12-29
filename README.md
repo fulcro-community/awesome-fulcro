@@ -42,4 +42,4 @@ A curated list of awesome resources for [Fulcro](https://github.com/fulcrologic/
 ### Templates and Examples
 
 * https://github.com/dvingo/dv.fulcro-template - based on the fulcro3 template but differs in backend tech and will continue to diverge as features are added to this template.
-* https://github.com/dvingo/pathom-client-wikipedia[Dvingo's pathom-client-wikipedia] -  example client-only fulcro app hitting a rest api
+* [Dvingo's pathom-client-wikipedia](https://github.com/dvingo/pathom-client-wikipedia) -  example client-only fulcro app hitting a rest api
