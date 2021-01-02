@@ -31,6 +31,7 @@ A curated list of awesome resources for [Fulcro](https://github.com/fulcrologic/
     1. [form and listing](https://chrisodonnell.dev/posts/giftlist/gift_list_form/)
     1. [navigation](https://chrisodonnell.dev/posts/giftlist/gift_list_navigation/)
     1. [deployment](https://chrisodonnell.dev/posts/giftlist/deployment/)
+* [Fulcro via Re-frame](https://folcon.github.io/post/fulcro-basics/2020-05-12-Fulcro-via-re-frame/) — makes a couple of comparisons to re-frame and proceeds to the Fulcro basics: defsc, queries, idents, normalization, mutations, and targeting.
 
 ### Other
 
