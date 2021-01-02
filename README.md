@@ -1,6 +1,6 @@
 # Awesome Fulcro
 
-A curated list of awesome resources for [Fulcro](https://github.com/fulcrologic/fulcro) and [Fulcro RAD](https://github.com/fulcrologic/fulcro-rad), the most awesome webapp framework the Earth has ever seen.
+A curated list of awesome resources for [Fulcro](https://github.com/fulcrologic/fulcro) and [Fulcro RAD](https://github.com/fulcrologic/fulcro-rad), the most awesome (web)app framework the Earth has ever seen.
 
 ## Motivation
 
@@ -13,6 +13,7 @@ A curated list of awesome resources for [Fulcro](https://github.com/fulcrologic/
 
 * [Fulcro Developers Guide](https://book.fulcrologic.com/)
 * [Fulcro 3 tutorials (video)](https://www.youtube.com/playlist?list=PLVi9lDx-4C_T7jkihlQflyqGqU4xVtsfi) indispensable!
+   * Alex Eeberts [Fulcro Video Notes](https://github.com/aeberts/fulcro-notes-public) provide a detailed table of contents for the videos, with links to the corresponding sections
 * [All Tony Kay's videos](https://www.youtube.com/c/TonyKayNW/videos)
 * [Fulcro RAD Developer’s Guide](https://book.fulcrologic.com/RAD.html)
 * [Pathom v2](https://blog.wsscode.com/pathom/v2/pathom/2.2.0/introduction.html)
