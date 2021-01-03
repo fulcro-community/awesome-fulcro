@@ -36,7 +36,7 @@ A curated list of awesome resources for [Fulcro](https://github.com/fulcrologic/
 
 ### Other
 
-* [eql-style-guide](https://github.com/souenzzo/eql-style-guide)
+* [EQL Style Guide](https://github.com/souenzzo/eql-style-guide) - Some tips about how to model, name, and organize your domain and your data.
 * [Fulcro Troubleshooting Decision Tree](https://blog.jakubholy.net/2020/troubleshooting-fulcro/) - A decision tree to help you go from a problem to the most appropriate troubleshooting steps
 * [Fulcro Explained: When UI Components and Data Entities Diverge](https://blog.jakubholy.net/2020/fulcro-divergent-ui-data/) - "Fulcro’s stateful components serve normally both as elements of the UI and to define the data model, i.e. data entities with their unique IDs and attributes. But what if your UI and data model needs diverge? We will take a look at what different kinds of divergence between the UI and data entities you might encounter and how to solve them."
 * [Error handling in Fulcro: 3 approaches](https://blog.jakubholy.net/2020/error-handling-in-fulcro/)
