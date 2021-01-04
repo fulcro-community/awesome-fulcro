@@ -9,7 +9,7 @@ A curated list of awesome resources for [Fulcro](https://github.com/fulcrologic/
 
 ## Learning
 
-### Official documentation
+### Official and semi-official documentation
 
 * [Fulcro Developers Guide](https://book.fulcrologic.com/)
 * [Fulcro 3 tutorials (video)](https://www.youtube.com/playlist?list=PLVi9lDx-4C_T7jkihlQflyqGqU4xVtsfi) indispensable!
@@ -17,6 +17,14 @@ A curated list of awesome resources for [Fulcro](https://github.com/fulcrologic/
 * [All Tony Kay's videos](https://www.youtube.com/c/TonyKayNW/videos)
 * [Fulcro RAD Developer’s Guide](https://book.fulcrologic.com/RAD.html)
 * [Pathom v2](https://blog.wsscode.com/pathom/v2/pathom/2.2.0/introduction.html)
+* 2020 podcast series on Fulcro and Pathom is also a very valuable resource, full of insights and valuable reasoning
+  - [S4 E6 - Fulcro with Tony Kay (Part 1)](https://soundcloud.com/user-959992602/s4-e6-fulcro-with-tony-kay-part-1)
+  - [S4 E7 - Fulcro with Tony Kay (Part 2)](https://soundcloud.com/user-959992602/s4-e7-fulcro-with-tony-kay-part-2)
+  - [S4 E8 - Fulcro with Tony Kay (Part 3)](https://soundcloud.com/user-959992602/s4-e8-fulcro-with-tony-kay-part-3)
+  - [S4 E9 - Fulcro with Tony Kay (Part 4)](https://soundcloud.com/user-959992602/s4-e9-fulcro-with-tony-kay-part-4)
+  - [S4 E10 - Fulcro with Tony Kay (Part 5)](https://soundcloud.com/user-959992602/s4-e10-fulcro-rad-and-guardrails-with-tony-kay-part-5)
+  - [S4 E15 Pathom with Wilker Lúcio (Part 1)](https://soundcloud.com/user-959992602/s4-e15-pathom-with-wilker-lucio-part-1)
+  - [S4 E16 Pathom with Wilker Lúcio (Part 2)](https://soundcloud.com/user-959992602/s4-e16-pathom-with-wilker-lucio-part-2) 
 
 ### Tutorials
 
