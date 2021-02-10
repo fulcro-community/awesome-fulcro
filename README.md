@@ -15,6 +15,7 @@ A curated list of awesome resources for [Fulcro](https://github.com/fulcrologic/
 * [Fulcro 3 tutorials (video)](https://www.youtube.com/playlist?list=PLVi9lDx-4C_T7jkihlQflyqGqU4xVtsfi) indispensable!
    * Alex Eeberts [Fulcro Video Notes](https://github.com/aeberts/fulcro-notes-public) provide a detailed table of contents for the videos, with links to the corresponding sections
 * [All Tony Kay's videos](https://www.youtube.com/c/TonyKayNW/videos)
+  * [Grokking Fulcro series](https://www.youtube.com/playlist?list=PLVi9lDx-4C_TBRiHfjnjXaK2J3BIUDPnf) - The intended audience of this video series is anyone with a basic understanding of Javascript and Clojurescript that wishes to know more about how Fulcro works. I do not assume a ton of prior knowledge about Fulcro itself, yet I think even most seasoned Fulcro developers will learn something from every video. Focus: Explain the lower-level details of React and Fulcro in the context of Clojurescript. Help developers gain an understanding of the core APIs of Fulcro. Cover the approaches to designing common things in Fulcro so you can apply those patterns in your own applications. Reveal some of the superpowers of Clojurescript for people that do not know it well.
 * [Fulcro RAD Developer’s Guide](https://book.fulcrologic.com/RAD.html)
 * [Pathom v2](https://blog.wsscode.com/pathom/v2/pathom/2.2.0/introduction.html)
 * 2020 podcast series on Fulcro and Pathom is also a very valuable resource, full of insights and valuable reasoning
