@@ -1,4 +1,4 @@
-== Awesome Fulcro
+= Awesome Fulcro
 
 A curated list of awesome resources for https://github.com/fulcrologic/fulcro[Fulcro] and https://github.com/fulcrologic/fulcro-rad[Fulcro RAD], the most awesome (web)app framework the Earth has ever seen.
 
