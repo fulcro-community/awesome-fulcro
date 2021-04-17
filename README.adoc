@@ -4,7 +4,7 @@ A curated list of awesome resources for https://github.com/fulcrologic/fulcro[Fu
 
 === Motivation
 
-* https://www.youtube.com/watch?v=PMbGhgVf9Do&t=628s[Why Build Solutions with Fulcro - Tom Toor] (video, 2019)
+* 🎬 https://www.youtube.com/watch?v=PMbGhgVf9Do&t=628s[Why Build Solutions with Fulcro - Tom Toor] (video, 2019)
 * https://blog.jakubholy.net/2020/talk-want-more-from-your-frontend-framework/[Want more from your frontend framework! Re-thinking web dev experience] - "`I will compare Redux + REST with a full-stack, component-centric solution based on a graph API (think GraphQL) that I came to love.`"
 
 === Learning
@@ -12,10 +12,10 @@ A curated list of awesome resources for https://github.com/fulcrologic/fulcro[Fu
 ==== Official and semi-official documentation
 
 * https://book.fulcrologic.com/[Fulcro Developers Guide]
-* https://www.youtube.com/playlist?list=PLVi9lDx-4C_T7jkihlQflyqGqU4xVtsfi[Fulcro 3 tutorials (video)] indispensable!
+* 🎬 https://www.youtube.com/playlist?list=PLVi9lDx-4C_T7jkihlQflyqGqU4xVtsfi[Fulcro 3 tutorials (video)] indispensable!
 ** Alex Eeberts https://github.com/aeberts/fulcro-notes-public[Fulcro Video Notes] provide a detailed table of contents for the videos, with links to the corresponding sections
-* https://www.youtube.com/c/TonyKayNW/videos[All Tony Kay’s videos]
-** https://www.youtube.com/playlist?list=PLVi9lDx-4C_TBRiHfjnjXaK2J3BIUDPnf[Grokking Fulcro series] - The intended audience of this video series is anyone with a basic understanding of Javascript and Clojurescript that wishes to know more about how Fulcro works. I do not assume a ton of prior knowledge about Fulcro itself, yet I think even most seasoned Fulcro developers will learn something from every video. Focus: Explain the lower-level details of React and Fulcro in the context of Clojurescript. Help developers gain an understanding of the core APIs of Fulcro. Cover the approaches to designing common things in Fulcro so you can apply those patterns in your own applications. Reveal some of the superpowers of Clojurescript for people that do not know it well.
+* 🎬 https://www.youtube.com/c/TonyKayNW/videos[All Tony Kay’s videos]
+** 🎬 https://www.youtube.com/playlist?list=PLVi9lDx-4C_TBRiHfjnjXaK2J3BIUDPnf[Grokking Fulcro series] - The intended audience of this video series is anyone with a basic understanding of Javascript and Clojurescript that wishes to know more about how Fulcro works. I do not assume a ton of prior knowledge about Fulcro itself, yet I think even most seasoned Fulcro developers will learn something from every video. Focus: Explain the lower-level details of React and Fulcro in the context of Clojurescript. Help developers gain an understanding of the core APIs of Fulcro. Cover the approaches to designing common things in Fulcro so you can apply those patterns in your own applications. Reveal some of the superpowers of Clojurescript for people that do not know it well.
 * https://book.fulcrologic.com/RAD.html[Fulcro RAD Developer’s Guide]
 * https://blog.wsscode.com/pathom/v2/pathom/2.2.0/introduction.html[Pathom v2]
 * 2020 podcast series on Fulcro and Pathom is also a very valuable resource, full of insights and valuable reasoning
