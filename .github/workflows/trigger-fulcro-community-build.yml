@@ -1,0 +1,19 @@
+name: deploy-site
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+
+jobs:
+  trigger_fulro_community:
+    name: "Trigger fulcro-community.github.io build"
+    runs-on: [ubuntu-latest]
+    steps:
+      # NOTE: Using https://github.com/apps/public-action-trigger so that I don't
+      # need to use a personal access token with access to all my repos (since GH
+      # does not allow me yet to create a PAT scoped to a single repo / action)
+      - run: |
+          curl -iXPOST https://publicactiontrigger.azurewebsites.net/api/dispatches/fulcro-community/fulcro-community.github.io -d '{"event_type": "build", "client_payload": { "repository": "'"$GITHUB_REPOSITORY"'" }}'
+          #curl -iX POST https://api.github.com/repos/fulcro-community/fulcro-community.github.io/dispatches -H 'Accept: application/vnd.github.v3+json' --header "Authorization: Bearer ${{ secrets.PERSONAL_ACCESS_TOKEN }}" --data '{"event_type": "build", "client_payload": { "repository": "'"$GITHUB_REPOSITORY"'" }}'
