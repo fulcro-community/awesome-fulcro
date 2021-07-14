@@ -62,6 +62,10 @@ A curated list of awesome resources for https://github.com/fulcrologic/fulcro[Fu
 * https://github.com/dvingo/pathom-client-wikipedia[Dvingo’s pathom-client-wikipedia] - example client-only fulcro app hitting a rest api
 * https://github.com/phronmophobic/membrane-fulcro[PoC of a GUI and a teminal UI built with Fulcro] and https://github.com/phronmophobic/membrane[Membrane]
 
+==== "Real" Apps
+
+* https://github.com/lgessler/glam[Glam] - a https://arxiv.org/abs/cs/0010033[linguistic annotation] app that uses Fulcro, Pathom, Material-UI, and Crux. (Work in progress.)
+
 === Tools
 
 * https://github.com/holyjak/fulcro-troubleshooting[fulcro-troubleshooting] - A development-time library for Fulcro that helps to detect problems earlier and find and fix their root cause faster
