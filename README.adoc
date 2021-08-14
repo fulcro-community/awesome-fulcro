@@ -65,6 +65,7 @@ A curated list of awesome resources for https://github.com/fulcrologic/fulcro[Fu
 ==== "Real" Apps
 
 * https://github.com/lgessler/glam[Glam] - a https://arxiv.org/abs/cs/0010033[linguistic annotation] app that uses Fulcro, Pathom, Material-UI, and Crux. (Work in progress.)
+* https://github.com/holyjak/fulcro-billing-app[fulcro-billing-app] - A somewhat simplified and anonymized fork of a production app made with Fulcro and Fulcro RAD in 2020 - 2021 
 
 === Tools
 
