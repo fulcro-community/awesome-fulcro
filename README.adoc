@@ -73,6 +73,7 @@ Examples / experiments
 
 * https://github.com/lgessler/glam[Glam] - a https://arxiv.org/abs/cs/0010033[linguistic annotation] app that uses Fulcro, Pathom, Material-UI, and Crux. (Work in progress.)
 * https://github.com/holyjak/fulcro-billing-app[fulcro-billing-app] - A somewhat simplified and anonymized fork of a production app made with Fulcro and Fulcro RAD in 2020 - 2021 
+* https://github.com/hhucn/decide3[Decide] (since 2019) - "Better decision-making in large groups"
 
 === Tools
 
