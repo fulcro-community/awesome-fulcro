@@ -55,6 +55,7 @@ A curated list of awesome resources for https://github.com/fulcrologic/fulcro[Fu
 * https://blog.jakubholy.net/2020/fulcro-divergent-ui-data/[Fulcro Explained: When UI Components and Data Entities Diverge] - "`Fulcro’s stateful components serve normally both as elements of the UI and to define the data model, i.e. data entities with their unique IDs and attributes. But what if your UI and data model needs diverge? We will take a look at what different kinds of divergence between the UI and data entities you might encounter and how to solve them.`"
 * https://blog.jakubholy.net/2020/error-handling-in-fulcro/[Error handling in Fulcro: 3 approaches]
 * 🎬 https://roamresearch.com/#/app/bristol-clojure/page/KT5i16d-v[Fulcro notes on Tony Kay video series]
+* An https://github.com/holyjak/minimalist-fulcro-template-backendless/tree/experiment/data-modeling-task-app[example of data and UI modeling] - from a graphical sketch of a UI through the analysis to a draft UI, with the thinking process documented
 
 ==== Templates and Examples
 
