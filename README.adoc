@@ -44,6 +44,10 @@ A curated list of awesome resources for https://github.com/fulcrologic/fulcro[Fu
 . https://chrisodonnell.dev/posts/giftlist/deployment/[deployment]
 * https://folcon.github.io/post/fulcro-basics/2020-05-12-Fulcro-via-re-frame/[Fulcro via Re-frame] — makes a couple of comparisons to re-frame and proceeds to the Fulcro basics: defsc, queries, idents, normalization, mutations, and targeting.
 
+==== Snippets and demos
+
+* Jean Boudet, 2022: Demonstration of https://gist.github.com/jeans11/5a7ea1541401b412db7de868ef4e1851[integrating a Fulcro app into React Native] without Expo, leveraging the native-or-web library https://github.com/necolas/react-native-web[react-native-web]. Featuring Fulcro's multiple-roots-renderer and React Native's  https://reactnative.dev/docs/appregistry[AppRegistry.registerComponent]. 
+
 ==== Troubleshooting
 
 * https://blog.jakubholy.net/2020/troubleshooting-fulcro/[Fulcro Troubleshooting Decision Tree] - A decision tree to help you go from a problem to the most appropriate troubleshooting steps
