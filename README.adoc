@@ -9,6 +9,10 @@ A curated list of awesome resources for https://github.com/fulcrologic/fulcro[Fu
 
 === Learning
 
+==== Recommended community resources
+
+Check out Jakub's self-paced https://github.com/holyjak/fulcro-intro-wshop[workshop Introduction to creating webapps with Fulcro] to get familiar with the concepts and the amazing tooling before deep-diving into learning the details. Then continue with the xref:tutorial-minimalist-fulcro:index.adoc[Minimalist Fulcro Tutorial] and its exercises. For more, see the xref:guide-learning-fulcro:index.adoc[Guide to learning Fulcro] and all the other https://fulcro-community.github.io/[fulcro-community resources].
+
 ==== Official and semi-official documentation
 
 * https://book.fulcrologic.com/[Fulcro Developers Guide]
