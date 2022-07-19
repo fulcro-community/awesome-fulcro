@@ -90,3 +90,4 @@ Examples / experiments
 
 * https://github.com/holyjak/fulcro-troubleshooting[fulcro-troubleshooting] - A development-time library for Fulcro that helps to detect problems earlier and find and fix their root cause faster
 * https://github.com/matterandvoid-space/subscriptions[Subscriptions] extracts re-frame's subscriptions and generalizes them over the data store and is usable with Fulcro - here is https://github.com/matterandvoid-space/subscriptions/blob/mainline/examples/fulcro_example.cljs[demo of Subscriptions with Fulcro]
+* https://github.com/RokLenarcic/fulcro-rad-indexed-db[fulcro-rad-indexed-db] - A library to use browser's https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API[IndexedDB] as a RAD storage provider
