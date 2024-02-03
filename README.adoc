@@ -73,6 +73,7 @@ Templates
 * The official https://github.com/fulcrologic/fulcro-template[fulcro-template] and https://github.com/holyjak/fulcro-rad-demo[fulcro-rad-demo]
 * https://github.com/dvingo/dv.fulcro-template - based on the fulcro3 template but differs in backend tech and will continue to diverge as features are added to this template.
 * https://github.com/holyjak/minimalist-fulcro-template-backendless[minimalist-fulcro-template-backendless] - A template for starting a new, frontend-only Fulcro application with in-browser Pathom. Intended for playing with and learning Fulcro, not for production apps, and therefore simpler than the official fulcro-template.
+* https://github.com/holyjak/minimalist-fulcro-template[minimalist-fulcro-template] - similar to the one above, but with an actual backend
 
 Examples / experiments
 
